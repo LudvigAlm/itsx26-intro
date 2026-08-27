@@ -1,3 +1,5 @@
-Incidenthanterare
+SOC-ANALYTIKER
 
-Cybersäkerhetstekniker
+
+IT-FORENSIKER
+
